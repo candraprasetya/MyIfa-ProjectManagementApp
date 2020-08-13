@@ -14,13 +14,24 @@ class Constants {
 
 //Colors
 Color primaryColor = Color(0xFF7984FF);
-Color primaryDarkColor = Color(0xFF8171FF);
+Color primaryDarkColor = Color(0xFFA278F4);
 Color white = Colors.white;
 Color background = Color(0xFFFAFAFA);
 Color blackPearl = Color(0xFF1E272E);
+Color green = Color(0xFF5DC7BD);
+Color blue = Color(0xFF83BCD9);
+Color softPurple = Color(0xFF8592D8);
+Color violet = Color(0xFFC99AD3);
+Color pink = Color(0xFFEA9DBD);
 
 //Assets
 String logoImage = "assets/images/logo.png";
+String icCalendar = "assets/icons/calendar.png";
+String icCreditCard = "assets/icons/credit-card.png";
+String icDocuments = "assets/icons/documents.png";
+String icLove = "assets/icons/love.png";
+String icMoney = "assets/icons/money.png";
+String icNotif = "assets/icons/notification.png";
 
 bool status = false;
 

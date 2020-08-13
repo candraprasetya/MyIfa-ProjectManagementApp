@@ -8,3 +8,4 @@ import 'package:workshop_demo/shareds/shareds.dart';
 part 'delayed_animation.dart';
 part 'slide_item.dart';
 part 'slide_dots.dart';
+part 'box_item.dart';
